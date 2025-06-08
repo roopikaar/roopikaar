@@ -16,6 +16,6 @@
 - Time-series forecasting for global inflation trends
 
 🔗 Let’s connect and build something impactful!  
-📫 Reach me at rk8542@rit.edu or visit [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/roopikaa-konidala-32433b1aa/)) and [GitHub]([https://github.com/YOUR-USERNAME](https://github.com/Roopikaa))
+📫 Reach me at rk8542@rit.edu or visit [LinkedIn] (https://www.linkedin.com/in/roopikaa-konidala-32433b1aa/) and [GitHub] (https://github.com/Roopikaa)
 
 ---
